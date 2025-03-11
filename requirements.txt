@@ -1,5 +1,7 @@
 streamlit
-python-docx
 transformers
+torch
+sentencepiece
+python-docx
 googletrans==4.0.0-rc1
 pypdf2
